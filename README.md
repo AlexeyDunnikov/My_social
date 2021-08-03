@@ -1,2 +1,2 @@
-# My_social
+# First react project
 Social on react
